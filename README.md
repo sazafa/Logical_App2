@@ -4,7 +4,7 @@
 	I just Like ***SET***
 
 
-![mypic](pictures/image.png)
+![mypic]("C:\Users\SADIK\Desktop\logic_github\pic\ssd.png")
 
  
 \textbf{\colorbox{green}{\textcolor{red}{Definition of a Set}}}\\
