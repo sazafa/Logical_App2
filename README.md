@@ -1,7 +1,7 @@
 # Logical_App2
 
 	
-	__SET__
+	** SET **
 \textbf{\colorbox{green}{\textcolor{red}{Definition of a Set}}}\\
 A set is the collection of objects based on a well-
 defined property. Thus, we can have table, chair,
