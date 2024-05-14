@@ -4,7 +4,7 @@
 	I just Like ***SET***
 
 
-![mypic](20230324_111041.jpg)
+![mypic](pictures/image.png)
 
  
 \textbf{\colorbox{green}{\textcolor{red}{Definition of a Set}}}\\
