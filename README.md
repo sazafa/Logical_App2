@@ -6,7 +6,7 @@
 
 ![mypic]("C:\Users\SADIK\Desktop\logic_github\pic\ssd.png")
 
- 
+ [mypic]{ssd.png}
 \textbf{\colorbox{green}{\textcolor{red}{Definition of a Set}}}\\
 A set is the collection of objects based on a well-
 defined property. Thus, we can have table, chair,
